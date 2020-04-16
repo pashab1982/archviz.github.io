@@ -381,10 +381,12 @@ section.footer button{
   margin: 30px auto;
   border: none;
   cursor: pointer;
+  transition: color 0.2s linear;
 }
 section.footer button:hover{
   color: #2ebaee;
   background: #fff;
+  transition: color 0.2s linear;
 }
 
 footer{
